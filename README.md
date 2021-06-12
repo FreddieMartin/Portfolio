@@ -84,3 +84,5 @@ mvn -f portfolio-app\pom.xml -Denforcer.skip=true clean verify
 
 Eclipse Public License
 https://www.eclipse.org/legal/epl-v10.html
+
+##
