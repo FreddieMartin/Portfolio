@@ -25,7 +25,7 @@ Optionally, install via the Eclipse Marketplace
 * ResourceBundle Editor
 * SonarLint
 * Eclipse Checkstyle Plug-in
-
+##
 ### Setup
 
 Clone the git repository by cmd or by download also.
